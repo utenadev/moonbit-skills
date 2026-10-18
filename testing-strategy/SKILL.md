@@ -1,6 +1,6 @@
 # MoonBit Testing Strategy Guide
 
-MoonBit でのテスト戦略ガイド。WASM CLI、Native CLI、QuickCheck を網羅。
+MoonBit でのテスト戦略ガイド。WASM CLI、Native CLI、QuickCheck、E2E テストを網羅。
 
 ## 目次
 
@@ -8,6 +8,8 @@ MoonBit でのテスト戦略ガイド。WASM CLI、Native CLI、QuickCheck を�
 - [Native CLI のテスト戦略](./native-testing.md)
 - [スナップショットテスト詳細](./snapshot.md)
 - [QuickCheck 使い方](./quickcheck.md)
+- [go-task E2E パターン](./go-task-e2e-patterns.md)
+- [bit-vcs テスト・ビルド戦略](./bit-vcs-patterns.md)
 
 ---
 
