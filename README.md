@@ -11,6 +11,7 @@ MoonBit 開発スキル集。
 - `wasm-cli/` - WASM CLI 開発
 - `testing-strategy/` - テスト戦略（UT, E2E, QuickCheck）
 - `mcp-gemini-cli/` - Gemini MCP 統合
+- `moonbit-agent-guide/` - MoonBit 言語・ツールチェーンガイド（公式・vendor 版）
 
 ## 使い方
 
