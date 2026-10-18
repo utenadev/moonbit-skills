@@ -10,7 +10,7 @@
     {
       "name": "moonbit-agent-guide",
       "description": "Guide for writing, refactoring, and testing MoonBit projects.",
-      "source": "./moonbit-agent-guide/moonbit-agent-guide",
+      "source": "./moonbit-agent-guide",
       "category": "development"
     },
     {
@@ -23,12 +23,6 @@
       "name": "moonbit-spec-test-development",
       "description": "Create formal spec-driven MoonBit APIs and test suites.",
       "source": "./moonbit-spec-test-development",
-      "category": "development"
-    },
-    {
-      "name": "moonbit-lang",
-      "description": "MoonBit language reference and coding conventions.",
-      "source": "./moonbit-lang",
       "category": "development"
     },
     {

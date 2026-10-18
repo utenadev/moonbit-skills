@@ -69,6 +69,7 @@ REQUIRED_DIRS=(
     "js-backend"
     "wasm-cli"
     "testing-strategy"
+    "moonbit-agent-guide"
 )
 
 for dir in "${REQUIRED_DIRS[@]}"; do

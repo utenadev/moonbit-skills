@@ -46,6 +46,7 @@ REQUIRED_SKILLS=(
     "wasm-cli"
     "testing-strategy"
     "mcp-gemini-cli"
+    "moonbit-agent-guide"
 )
 
 for skill in "${REQUIRED_SKILLS[@]}"; do
@@ -69,6 +70,7 @@ SKILLS_WITH_DOCS=(
     "wasm-cli"
     "testing-strategy"
     "mcp-gemini-cli"
+    "moonbit-agent-guide"
 )
 
 for skill in "${SKILLS_WITH_DOCS[@]}"; do
